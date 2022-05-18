@@ -50,7 +50,7 @@
                     <a id="navHome" class="nav-link active" href="#">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a id="navAbout" class="nav-link"  href="#" data-toggle="popover" data-trigger="hover" data-placement="bottom" title="About Web 3D Applications" data-content="3D Apps is a final year and postgraduate module ...">About</a>
+                    <a id="navAbout" class="nav-link"  href="#" data-toggle="popover" data-trigger="hover" data-placement="bottom" title="About Web 3D Applications" data-content="3D Apps is a final year and postgraduate module ...">About and SoO</a>
                   </li>
               
                   <!-- Dropdown -->
@@ -131,8 +131,11 @@
           </div>  <!-- End home page contents-->
 
           <div id="about" style="display:none;">
-          This is the courswork project for Web3DApps at University of Sussex. </br> </br>
+          This is the courswork project for Web3DApps at University of Sussex. </br>
 	  The models that can be seen in this application, have a spin animation as well as access to different camera views.
+ 	  </br> </br>
+
+	  Statement of Originality: These web pages are submitted as part requirement for the degree of Computer Science with AI at the University of Sussex.  They are the product of my own labour except where indicated in the web page content. These web pages or contents may be freely copied and distributed provided the source is acknowledged.
           </div>  
 
           <!-- This is the content for X3D models and 3D Image   -->
