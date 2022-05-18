@@ -348,7 +348,7 @@
       <nav id="footerColor" class="navbar navbar-expand-sm footer">
           <div class="container-fluid">   
               <div class="navbar-text float-left copyright">
-                  <p><span class="align-baseline">&copy 2022 3D Apps | <a href="javascript:changeLook()">Restyle</a> | <a href="javascript:changeBack()">Reset</a> | <a href="https://github.com/TheKlodster/3d_web_applications">Github</a></span></p>
+                  <p><span class="align-baseline">&copy 2022 3D Apps | <a href="javascript:changeLook()">Restyle</a> | <a href="javascript:changeBack()">Reset</a> | <a href="https://github.com/FMarszalec/Web3DApps">Github</a></span></p>
               </div>
               <div class="navbar-text float-right social">
                   <a href="#"><i class="fab fa-facebook-square fa-2x" style="font-size: 20px;color: blue;"></i></a>
